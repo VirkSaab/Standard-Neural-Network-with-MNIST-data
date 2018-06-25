@@ -5,7 +5,7 @@ LAYERS:
 2. 3 hidden layers
 3. Output layer with 10 units
 
-###No Regularization
-###No DropOut
+##No Regularization
+##No DropOut
 
 ACCURACY: 98.20% on MNIST dataset
