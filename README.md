@@ -1,4 +1,4 @@
-# state-of-the-art-simple-Neural-Network-with-MNIST-dataset
+# Standard Neural network using MNIST dataset with TensorFlow
 
 LAYERS:
 1. one input layer
