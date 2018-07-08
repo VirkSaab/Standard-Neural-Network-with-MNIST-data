@@ -9,3 +9,5 @@ LAYERS:
 ##No DropOut
 
 ACCURACY: 98.20% on MNIST dataset
+
+Check repo for code.
