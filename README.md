@@ -11,3 +11,7 @@ LAYERS:
 ACCURACY: 98.20% on MNIST dataset
 
 Check repo for code.
+
+
+---
+<sup>**About me:** [https://virksaab.github.io/](https://virksaab.github.io/)</sup>
